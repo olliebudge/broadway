@@ -7,7 +7,7 @@ h1 {
     font-size: 70px;
     font-weight: bold;
     color: white;
-    background-image: url(../images/the-flatiron-building.png);
+    
     }
 
 h2 {
@@ -30,7 +30,7 @@ p {
 }
 
 .design {
-    background-image: url(..images/the-flatiron-building.png);
+    background-image: url(../images/the-flatiron-building.png);
     color: white;
 }
 
@@ -38,4 +38,7 @@ p {
     background-color: dimgray;
     font-size: 11px;
 
+}
+.title {
+    background-image: url(../images/the-flatiron-building.png);
 }
